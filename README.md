@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)
 <img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="animated gif">
 <h1 align="center">Hi 👋, I'm Erickson Nthatu</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer</h3>
