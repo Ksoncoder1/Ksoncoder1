@@ -1,4 +1,4 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif?raw=true)
+![a6b9b58d0cbee9e5b28b9c78b6b68f78](https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/c3c88ea5-6e7a-4dca-b836-33c0b468609e)
 <img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="animated gif">
 <h1 align="center">Hi 👋, I'm Erickson Nthatu</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer</h3>
