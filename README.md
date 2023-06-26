@@ -1,10 +1,7 @@
 ![a6b9b58d0cbee9e5b28b9c78b6b68f78](https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/c3c88ea5-6e7a-4dca-b836-33c0b468609e)
-<img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="animated gif">
 <h1 align="center">Hi 👋, I'm Erickson Nthatu</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/5e9d3f6b-3a01-4bfc-9ff7-c124caf510d9”>
-![a830c5182852e35bcd0dc07b90122f07ecd15f48](https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/5e9d3f6b-3a01-4bfc-9ff7-c124caf510d9)
-
+![a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525](https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/295e8001-7589-4da4-9be6-633f4976bcd9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksoncoder1&label=Profile%20views&color=0e75b6&style=flat" alt="ksoncoder1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
