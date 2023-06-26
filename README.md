@@ -2,6 +2,7 @@
 <img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="animated gif">
 <h1 align="center">Hi 👋, I'm Erickson Nthatu</h1>
 <h3 align="center">A passionate Full Stack Javascript Developer</h3>
+<img align=“right” alt=“Coding” width=“400” src=“https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/5e9d3f6b-3a01-4bfc-9ff7-c124caf510d9”>
 ![a830c5182852e35bcd0dc07b90122f07ecd15f48](https://github.com/Ksoncoder1/Ksoncoder1/assets/113189184/5e9d3f6b-3a01-4bfc-9ff7-c124caf510d9)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksoncoder1&label=Profile%20views&color=0e75b6&style=flat" alt="ksoncoder1" /> </p>
